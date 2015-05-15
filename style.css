@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+body {
+font-family: Arial,Helvetica,sans-serif;
+font-size: 1em;
+margin: 0;
+padding: 0;
+background-color: #FCFBE3; 
+color:#FCFBE3;
+}
+
+a:link {
+color:#FBB829;
+font-style:italic;
+}
+
+a:hover {
+font-style:oblique;
+color: #FF9900;
+}
+
+a:visited
+{
+color:#FBB829;
+font-style:italic;
+} 
+
+table, th, td {
+background-color: #333333;
+}
+
+table {
+width:80%;
+}
+
+td {
+padding: 5px;
+height:25px;
+vertical-align:top;
+}
+
+th {
+height:25px;
+text-align:center;
+font-weight:bold;
+}
